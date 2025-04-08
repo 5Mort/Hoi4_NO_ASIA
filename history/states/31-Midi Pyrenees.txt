@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=31
 	name="STATE_31"
 

@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=103
 	name="STATE_103" # Dalmatia
 	manpower = 1431700

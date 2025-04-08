@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=443
 	name="STATE_443" # Sind
 	manpower = 4524236 #3887000
