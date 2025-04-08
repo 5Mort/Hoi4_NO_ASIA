@@ -1,5 +1,5 @@
 
-state = {
+state={
 	id = 39
 	name = "STATE_39" # (South Tyrol) Alto Adige
 	manpower = 298290 # was 641650 before Trentino split

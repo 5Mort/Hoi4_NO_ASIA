@@ -1,5 +1,4 @@
-state = 
-{
+state={
 	id=853
 	name="STATE_853"
 	manpower = 333250 # 336279 in 1942 # was 1144300 before Ljubljana split

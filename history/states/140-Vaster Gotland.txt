@@ -1,5 +1,5 @@
 
-state = {
+state={
 	id = 140
 	name = "STATE_140" # Västra Götaland
 	manpower = 889962

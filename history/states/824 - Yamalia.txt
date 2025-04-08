@@ -1,5 +1,5 @@
 
-state = {
+state={
 	id = 824
 	name = "STATE_824" # Yamalia
 	manpower = 21974

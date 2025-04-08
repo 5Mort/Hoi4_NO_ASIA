@@ -1,5 +1,5 @@
 
-state = {
+state={
 	id=109
 	name="STATE_109" # Croatia
 	manpower = 2224400

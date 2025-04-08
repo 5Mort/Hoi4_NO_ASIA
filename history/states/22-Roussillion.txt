@@ -1,5 +1,5 @@
 
-state = {
+state={
 	id=22
 	name="STATE_22" # Languedoc
 	manpower = 1691200

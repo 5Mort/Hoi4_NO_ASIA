@@ -1,5 +1,5 @@
 
-state = {
+state={
 	id = 150
 	name = "STATE_150" # KUOPIO
 	manpower = 392400

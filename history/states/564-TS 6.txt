@@ -1,5 +1,5 @@
 
-state = {
+state={
 	id=564
 	name="STATE_564" # Ulan Ude
 	manpower = 370893

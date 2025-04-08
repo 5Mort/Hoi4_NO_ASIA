@@ -1,5 +1,5 @@
 
-state = {
+state={
 	id=778
 	name="STATE_778" # Upper Volta
 	manpower = 3186184

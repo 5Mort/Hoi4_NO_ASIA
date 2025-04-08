@@ -1,5 +1,5 @@
 
-state = {
+state={
 	id = 503
 	name = "STATE_503"
 	manpower = 961350 # Was split with Parana from 1922700

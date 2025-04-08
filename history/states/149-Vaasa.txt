@@ -1,5 +1,5 @@
 
-state = {
+state={
 	id = 149
 	name = "STATE_149" # VAASA
 	manpower = 594860

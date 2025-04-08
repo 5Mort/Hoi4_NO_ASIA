@@ -1,5 +1,5 @@
 
-state = {
+state={
 	id = 878
 	name = "STATE_878" # Khatangsky
 	manpower = 15974

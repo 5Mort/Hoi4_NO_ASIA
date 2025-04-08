@@ -1,5 +1,5 @@
 
-state = {
+state={
 	id = 156
 	name = "STATE_156"
 	manpower = 1772000 # was 2966315 before Puglia was added
